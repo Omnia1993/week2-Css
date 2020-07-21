@@ -1,0 +1,16 @@
+header {
+    background: URL("../images/wavy\ lines.jpg");
+    background-size: 120px 100px;
+    height: 100px;
+  }
+
+  footer {
+    background:  URL("https://ancoraeducation.instructure.com/courses/3973/files/293783/download?wrap=1 film border.jpg");
+    background-size: 120px 100px;
+    height: 100px;
+  }
+  
+
+  footer em, strong {
+    background: white;
+  }
