@@ -9,7 +9,7 @@ body {
 h1 {
     background-color: #62433f;
     border: 11px solid;
-    
+
     padding: 30px;
     margin: 0px;
     border-width: 20px 5px;
@@ -35,6 +35,7 @@ figure {
 
 
 }
+
 header {
     background-color: #98644e;
     color: white;
@@ -43,23 +44,25 @@ header {
     position: fixed;
     top: 0px;
     width: 100%;
-  }
-  .navbar-primary ul {
+}
+
+.navbar-primary ul {
     background-color: #62433f;
     margin: 0px;
     position: absolute;
     top: 80px;
     left: 0px;
     width: 100%;
-  }
-  
-  .navbar-primary ul li {
+}
+
+.navbar-primary ul li {
     display: inline-block;
     padding: 5px 10px;
-  }
-  .navbar-primary a{
+}
 
-text-decoration: none;
-color: white;
+.navbar-primary a {
 
-  }
+    text-decoration: none;
+    color: white;
+
+}
